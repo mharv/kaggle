@@ -1,2 +1,0 @@
-# kaggle
-kaggle notebooks
